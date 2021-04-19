@@ -1,0 +1,19 @@
+body{
+  background-color: #bdc7c9;
+}
+img{
+  background-color: gold;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #542e71;
+  border-width:5px;
+width: 5%
+}
+h1 {
+  color: #542e71
+}
+  h3 {
+    color: #542e71
+}
